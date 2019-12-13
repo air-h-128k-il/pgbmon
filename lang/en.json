@@ -1,0 +1,21 @@
+{
+  "label": {
+    "accessLoad": "Access Load",
+    "db": "DB",
+    "dbSize": "DB Size",
+    "homePage": "Top Page",
+    "host": "Host",
+    "otherError": "Other Error",
+    "pageNotFound": "Page Not Found",
+    "pgbmon": "Pg Balance Monitor",
+    "slowQuery": "Slow Query"
+  },
+  "button": {},
+  "tooltip": {
+    "menu": "Menu"
+  },
+  "message": {
+    "otherError": "An error occurred",
+    "pageNotFound": "404 Not Found"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "label": {
+    "accessLoad": "アクセス負荷",
+    "db": "データベース",
+    "dbSize": "データベース容量",
+    "homePage": "トップページ",
+    "host": "ホスト",
+    "otherError": "エラー",
+    "pageNotFound": "ページはありません",
+    "pgbmon": "Pg バランスモニター",
+    "slowQuery": "スロークエリ"
+  },
+  "button": {},
+  "tooltip": {
+    "menu": "メニュー"
+  },
+  "message": {
+    "otherError": "エラーが発生しました",
+    "pageNotFound": "指定のページはありません"
+  }
+}
